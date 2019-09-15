@@ -1,0 +1,2 @@
+1.  Сreate(node_modules).
+2.  build dist (ng build --prod).
